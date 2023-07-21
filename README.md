@@ -8,7 +8,7 @@ The files should be checked as follow;
 The Project Summary:
 1. Data Collection:
     1. First dataset is CBIS-DDSM dataset(Curated Breast Imaging Subset of DDSM – Digital Database for Screening Mammography).
-    2.Second dataset is Breast Histopathology Images saved as png files.  
+    2. Second dataset is Breast Histopathology Images saved as png files.  
 
 2. Data Pre-processing:
    1. Process the CBIS dataset; csv files and the images

@@ -1,9 +1,12 @@
 Breast_Cancer_Classification_Model
 
 The files should be checked as follow;
-1st ipynb file = A_Breast_Cancer_Project
-2nd ipynb file = B_Breast_Cancer_Project
-3rd ipynb file = C_Breast_Cancer_Project
+
+1st ipynb file = A_Breast_Cancer_Project - CBIS dataset analysis & mass data modelling (ANN)
+
+2nd ipynb file = B_Breast_Cancer_Project - CBIS dataset combined analysis and combined data modelling (ANN, SVM)
+
+3rd ipynb file = C_Breast_Cancer_Project - Histopathology dataset analysis and CNN Modelling
 
 The Project Summary:
 1. Data Collection:
